@@ -1,13 +1,16 @@
 ---
 layout: post
-title: "Welcome to Millennial!"
-author: "Paul Le"
+title: "心学新解"
+author: "阿柄"
 categories: documentation
 tags: [documentation,sample]
-image: cuba-1.jpg
+image: brianpic1.png
 ---
 
-Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
+## 前言
+（落難的程序員分享一些哲學的感悟，個人覺得很有益處，略花時間，傾盡僅有的文學所能，希望文字能入君心，讓我們一起渡人渡己。）
+孤獨無你。歲月不惜春，轉眼蒼老已黃昏，未有夢裡相見歡，唯有亂世別離無奈恨，文章千古，難寫心如刀割。
+{% include youtubePlayer.html id=page.bwtT80qa21o %}
 
 ## Getting Started
 
