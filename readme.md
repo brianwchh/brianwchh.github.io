@@ -59,7 +59,10 @@
 認知不取決於你能看到什麼相，而是取決於你能通過相悟到什麼！眼見不一定爲實，有可能皆是幻相，只是我們從一出生就習慣了把原點設在自己世界裏，就像我們習慣了我們的認知裏氧氣是無味道的一樣。  
 
 ###### 點擊下面圖片播放視頻：
-[![Watch the video](./image/page.png)](https://youtu.be/bwtT80qa21o)  
+<!-- [![Watch the video](./image/page.png)](https://youtu.be/bwtT80qa21o)   -->
+<div align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bwtT80qa21o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 （落難的程序員分享一些哲學的感悟，個人覺得很有益處，略花時間，傾盡僅有的文學所能，希望文字能入君心，讓我們一起渡人渡己。）  
 
 #### <p id="什麼是心學"> <p/>
