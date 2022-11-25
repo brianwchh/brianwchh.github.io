@@ -38,7 +38,7 @@
         - [月語](#月語)  
         - [梨花城](#梨花城)  
         - [蝶戀花.孤蝶無花歸何處](#蝶戀花.孤蝶無花歸何處)  
-
+- [視頻簡介](#視頻簡介)  
 
 
 #### <p id="前言"> <p/>
@@ -63,28 +63,7 @@
 **_所以真相是相對的！這世界沒有絕對的真相！就像沒有絕對的座標一樣。_** 相外有相，天外有天，天不一樣，世界的物理和規律也不一樣。  
 
 認知不取決於你能看到什麼相，而是取決於你能通過相悟到什麼！眼見不一定爲實，有可能皆是幻相，只是我們從一出生就習慣了把原點設在自己世界裏，就像我們習慣了我們的認知裏氧氣是無味道的一樣。  
-
-###### 點擊下面圖片播放視頻：
-
-<div align="center">
-
-<div align="start" style="width:40%;">
-
-###### 孤獨  
-</br>
-
-*_歲月不惜春，_*  
-*_轉眼蒼老已黃昏，_*    
-*_未有夢裡相見歡，_*   
-*_唯有亂世別離無奈恨，_*     
-*_文章千古，難寫心如刀割。_* 
-</div>
-
-</div>
-
-</br>
-
-[![Watch the video](./image/page.png)](https://youtu.be/bwtT80qa21o)    
+ 
 
 #### <p id="什麼是心學"> <p/>
 #### 什麼是心學  
@@ -404,6 +383,10 @@ https://www.bilibili.com/video/BV1Ti4y1M7sG/
 
 </br>
 
+![alt text](./image/moon.png) 
+
+</br>
+
 #### <p id="梨花城"> <p/> 
 ##### 梨花城  
 
@@ -417,6 +400,11 @@ https://www.bilibili.com/video/BV1Ti4y1M7sG/
 唯有卿歌苦作舟。   
 渡我歲月千行淚，    
 來年可是心上人？  
+
+</br>
+
+
+![alt text](./image/sh.png) 
 
 </br>
 
@@ -439,4 +427,37 @@ https://www.bilibili.com/video/BV1Ti4y1M7sG/
 卻是飄零無一物。  
 
 </div>   
+
+</br>
+
+
+![alt text](./image/lzhd.png) 
+
+
+</br>
+
+***
+ 
+#### <p id="視頻簡介"> <p/>  
+###### 點擊下面圖片播放視頻：
+
+<div align="center">
+
+<div align="start" style="width:40%;">
+
+*_孤獨_*  
+</br>
+
+*_歲月不惜春，_*  
+*_轉眼蒼老已黃昏，_*    
+*_未有夢裡相見歡，_*   
+*_唯有亂世別離無奈恨，_*     
+*_文章千古，難寫心如刀割。_* 
+</div>
+
+</div>
+
+</br>
+
+[![Watch the video](./image/page.png)](https://youtu.be/bwtT80qa21o)   
 
