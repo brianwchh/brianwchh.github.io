@@ -456,7 +456,7 @@ https://www.bilibili.com/video/BV1Ti4y1M7sG/
 #### <p id="視頻簡介"> <p/>  
 ###### 點擊下面圖片播放視頻：
 
-<div align="center">
+<div align="center" style="width:100%;">
 
 <div align="start" style="width:40%;">
 
