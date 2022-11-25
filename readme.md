@@ -458,7 +458,7 @@ https://www.bilibili.com/video/BV1Ti4y1M7sG/
 
 
 <div align="start" style="width:40%; margin-left: 30%; ">
-<p>
+<p> <span>
 
 *_孤獨_*  
 
@@ -468,6 +468,7 @@ https://www.bilibili.com/video/BV1Ti4y1M7sG/
 *_唯有亂世別離無奈恨，_*     
 *_文章千古，難寫心如刀割。_* 
 
+</span>
 </p>
 
 </div>
