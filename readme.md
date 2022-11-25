@@ -456,12 +456,11 @@ https://www.bilibili.com/video/BV1Ti4y1M7sG/
 #### <p id="視頻簡介"> <p/>  
 ###### 點擊下面圖片播放視頻：
 
-<div align="center" style="width:100%;">
+<div  style="width:100%;">
 
-<div align="start" style="width:40%;">
+<div align="start" style="width:40%; margin-left: 30%; ">
 
 *_孤獨_*  
-</br>
 
 *_歲月不惜春，_*  
 *_轉眼蒼老已黃昏，_*    
