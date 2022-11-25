@@ -456,9 +456,9 @@ https://www.bilibili.com/video/BV1Ti4y1M7sG/
 #### <p id="視頻簡介"> <p/>  
 ###### 點擊下面圖片播放視頻：
 
-<div  style="width:100%;">
 
 <div align="start" style="width:40%; margin-left: 30%; ">
+<p>
 
 *_孤獨_*  
 
@@ -467,9 +467,11 @@ https://www.bilibili.com/video/BV1Ti4y1M7sG/
 *_未有夢裡相見歡，_*   
 *_唯有亂世別離無奈恨，_*     
 *_文章千古，難寫心如刀割。_* 
-</div>
+
+</p>
 
 </div>
+
 
 </br>
 
