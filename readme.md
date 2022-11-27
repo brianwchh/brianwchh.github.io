@@ -111,6 +111,8 @@
 
 我們無法把頭伸出這個宇宙的超級電腦去看看外面真實世界的模樣。UFO現象是唯一一個人類觀測到的外部世界的間接數據。
 
+另外，集體潛意識，已經是一個在心理學上被證明的科學現象。一羣在孤島上的動物能發展出和內地的同種物種一樣的習慣。這也證明了，人類的大腦在另一個我們不知道的維度，以某種方式共享着某些很重要的東西。而這維度也只能在這個宇宙之外！如果宇宙是一臺超級超級計算機，而我們的心在這宇宙之外，以某種方式共同接入了這個宇宙超級計算機，那就能很好地解釋潛意識的現象了！即我們共享了一些知識等等。
+
 #### <p id="虛擬現實遊戲是虛擬宇宙的一種淺層體驗"> <p/>
 #### 虛擬現實遊戲是虛擬宇宙的一種淺層體驗  
 
@@ -483,4 +485,54 @@ https://www.bilibili.com/video/BV1Ti4y1M7sG/
 </br>
 
 [![Watch the video](./image/page.png)](https://youtu.be/bwtT80qa21o)   
+
+
+
+
+
+
+
+<!-- <div>
+
+<div style=" width=100%; padding-bottom: 54%;  position: relative;display: block; z-index: 50;">
+
+
+<p style="position: absolute; top: 16%; left: 2%;z-index: 200;font-size: 88px;font-weight: bolder; color: rgb(86,10,94);transform: rotate(-16deg);">
+  Marry me 
+</p>
+
+<p style="position: absolute; bottom: 34%; left: 60%;z-index: 200;font-size: 40px;font-weight: bolder; color: rgb(86,10,94);transform: rotate(-90deg);">
+  Ha Ha Ha Ha Ha ...
+</p>
+
+<p style="position: absolute; top: 75%; left: 12%;z-index: 200;font-size: 58px;font-weight: bolder; color: rgb(255,0,0);transform: rotate(11deg);">
+  Don't marry christmas
+</p>
+
+
+<image style="position: absolute; top: 0px; left: 0px;display: block;width: 100%;height:auto; -moz-opacity: 0.85; -khtml-opacity: 0.85; opacity: 0.85;               " src='./image/chenghewu.png'/>
+
+</div>
+
+</div> -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
