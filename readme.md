@@ -10,8 +10,8 @@
 
 #### 心智是可以被操控的！心智是可以被操控的！心智是可以被操控的！你所不知道的5G/6G微波腦機接口技術！ 
 ****
- ## <p align="center">心学新解</p>
-<p align="center">阿柄</p>
+****<p align="center" style="font-size: large;">心学新解</p>****
+<p align="center" style="font-size: large;">阿柄</p>
 
 
 
@@ -376,7 +376,7 @@ https://www.bilibili.com/video/BV1Ti4y1M7sG/
 #### <p id="幾首不成詩的文字"> <p/>
 #### 幾首不成詩的文字
 
-<div align="center">  
+<div align="center" >  
 
 #### <p id="月語"> <p/>  
 ##### 月語  
@@ -390,12 +390,16 @@ https://www.bilibili.com/video/BV1Ti4y1M7sG/
 
 </br>
 
+</div>
+
 <!-- ![alt text](./image/moon.png)  -->
 <div align="center">
   <img style="width: 95%; height: auto;" src="./image/moon.png" />
 </div>
 
 </br>
+
+<div align="center" >
 
 #### <p id="梨花城"> <p/> 
 ##### 梨花城  
@@ -411,6 +415,8 @@ https://www.bilibili.com/video/BV1Ti4y1M7sG/
 渡我歲月千行淚，    
 來年可是心上人？  
 
+</div>
+
 </br>
 
 
@@ -420,6 +426,8 @@ https://www.bilibili.com/video/BV1Ti4y1M7sG/
 </div>
 
 </br>
+
+<div align="center" >
 
 #### <p id="蝶戀花.孤蝶無花歸何處"> <p/> 
 ##### 蝶戀花.孤蝶無花歸何處
