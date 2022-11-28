@@ -390,16 +390,26 @@ https://www.bilibili.com/video/BV1Ti4y1M7sG/
 頭枕星辰臥聽曲，  
 朝陽夕陽皆予你。   
 
-</br>
+<!-- image area, flex to make it center,it may not work for github, for html and pdf rendering only -->
+<div align="center"> <!-- pictureWrapper_div add this only to make the bendan github understand -->
+
+<div style="display: flex; flex-direction: row; margin-top: 20px; margin-bottom: 50px;">
+
+   <div style="flex-basics: auto;flex:1;"></div>
+
+
+
+   <image style=" flex:0; width: 70%; max-width: 800px; height:auto; -moz-opacity: 0.95; -khtml-opacity: 0.95; opacity: 0.99;" src='./image/moon.png'/>
+
+
+   <div style="flex-basics: auto;flex:1;"></div>
 
 </div>
 
-<!-- ![alt text](./image/moon.png)  -->
-<div align="center">
-  <img style="width: 95%; height: auto;" src="./image/moon.png" />
+</div> <!-- end pictureWrapper_div -->
+
 </div>
 
-</br>
 
 <div align="center" >
 
@@ -419,15 +429,24 @@ https://www.bilibili.com/video/BV1Ti4y1M7sG/
 
 </div>
 
-</br>
+<!-- image area, flex to make it center,it may not work for github, for html and pdf rendering only -->
+<div align="center"> <!-- pictureWrapper_div add this only to make the bendan github understand -->
+
+<div style="display: flex; flex-direction: row; margin-top: 20px; margin-bottom: 50px;">
+
+   <div style="flex-basics: auto;flex:1;"></div>
 
 
-<!-- ![alt text](./image/sh.png)  -->
-<div align="center">
-  <img style="width: 95%; height: auto;" src="./image/sh.png" />
+
+   <image style=" flex:0; width: 70%; max-width: 800px; height:auto; -moz-opacity: 0.95; -khtml-opacity: 0.95; opacity: 0.99;" src='./image/sh.png'/>
+
+
+   <div style="flex-basics: auto;flex:1;"></div>
+
 </div>
 
-</br>
+</div> <!-- end pictureWrapper_div -->
+
 
 <div align="center" >
 
@@ -451,16 +470,24 @@ https://www.bilibili.com/video/BV1Ti4y1M7sG/
 
 </div>   
 
-</br>
+<!-- image area, flex to make it center,it may not work for github, for html and pdf rendering only -->
+<div align="center"> <!-- pictureWrapper_div add this only to make the bendan github understand -->
+
+<div style="display: flex; flex-direction: row; margin-top: 20px; margin-bottom: 50px;">
+
+   <div style="flex-basics: auto;flex:1;"></div>
 
 
-<!-- ![alt text](./image/lzhd.png)  -->
-<div align="center">
-  <img style="width: 95%; height: auto;" src="./image/lzhd.png" />
+
+   <image style=" flex:0; width: 70%; max-width: 800px; height:auto; -moz-opacity: 0.95; -khtml-opacity: 0.95; opacity: 0.99;" src='./image/lzhd.png'/>
+
+
+   <div style="flex-basics: auto;flex:1;"></div>
+
 </div>
 
+</div> <!-- end pictureWrapper_div -->
 
-</br>
 
 ***
  
@@ -510,16 +537,11 @@ https://www.bilibili.com/video/BV1Ti4y1M7sG/
 </p>
 
 
-<image style="position: absolute; top: 0px; left: 0px;display: block;width: 100%;height:auto; -moz-opacity: 0.85; -khtml-opacity: 0.85; opacity: 0.85;               " src='./image/chenghewu.png'/>
+<image style="position: absolute; top: 0px; left: 0px;display: block;width: 100%;height:auto; -moz-opacity: 0.85; -khtml-opacity: 0.85; opacity: 0.85;               " src='../image/chenghewu.png'/>
 
 </div>
 
 </div> -->
-
-
-
-
-
 
 
 
