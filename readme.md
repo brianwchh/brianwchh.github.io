@@ -1,10 +1,10 @@
 ****
-- [查看更多文章請點擊此跳轉到博客目錄頁面](./tableOfContent.md)
+- [點擊此跳轉至目錄頁面（雜文隨筆，編程技術教程，客家話學習等等）](https://github.com/brianwchh/worldofheart/blob/main/tableOfContent.md)
 ****
 #### 博客精選文章目錄
-* [無眠月照無情門](./blogs/worldofheart/md_and_html/無眠月照無情門.md)
-* [心學新解](./blogs/心學新解.md)
-* [... 查看更多文章請點擊此跳轉道博客目錄頁面](./tableOfContent.md)
+* [無眠月照無情門](https://github.com/brianwchh/worldofheart/blob/main/md_and_html/%E7%84%A1%E7%9C%A0%E6%9C%88%E7%85%A7%E7%84%A1%E6%83%85%E9%96%80.md)
+* [心學新解](https://github.com/brianwchh/worldofheart/blob/main/md_and_html/%E5%BF%83%E5%AD%B8%E6%96%B0%E8%A7%A3.md)
+* [... 點擊此跳轉至目錄頁面（雜文隨筆，編程技術教程，客家話學習等等）](https://github.com/brianwchh/worldofheart/blob/main/tableOfContent.md)
 ****
 #### 推薦文章
 ##### *_這篇文章比我在這裏分享的任何代碼和創業項目都重要，其中的發現關係到每一個人的方方面面。哲學比科學和技術更重要！哲學是人生，科學和技術只是喫飯而已！_*
